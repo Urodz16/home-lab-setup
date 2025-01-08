@@ -27,7 +27,7 @@ This guide walks you through setting up a home lab for testing virtualization, c
    - Launch VirtualBox to verify it installed correctly.
 
 **![SCREENSHOT HERE: VirtualBox](/screenshots/virtualbox-dashboard.png)**
-A preview of what our end state will look like.
+A preview of what our end state will look like (plus a sneak peek of my Splunk Project!).
 
 ---
 
