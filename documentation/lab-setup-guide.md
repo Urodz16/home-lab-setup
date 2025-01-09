@@ -166,6 +166,8 @@ A preview of what our end state will look like (plus a sneak peek of my Splunk P
 1. Verify it’s connected to the NAT Network and has internet access.
 2. Use this VM for reconnaissance and attack simulations.
 
+**![Network-diagram](/diagrams/network-diagram.png)**
+
 ---
 
 ## Notes for me
